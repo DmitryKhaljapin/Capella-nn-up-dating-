@@ -80,7 +80,7 @@ body {
 	min-height: 100vh;
 	width: 100%;
 	overflow: hidden;
-	background: url("../img/icons/white-line.png") 0 100% no-repeat, url("../img/main-photo.png") center / cover no-repeat fixed;
+	background: url("../img/icons/white-line.png") 0 100%/100%  no-repeat, url("../img/main-photo.png") center / cover no-repeat fixed;
 	padding: 50px 55px;
 	margin-bottom: 100px;
 	flex-shrink: 0;
