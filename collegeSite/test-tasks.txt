@@ -1,2 +1,0 @@
-- anounsment check all month days & days of a week;
--ask about lines in contects
