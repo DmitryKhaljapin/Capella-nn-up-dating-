@@ -191,7 +191,6 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	position: fixed;
 	left: 100%;
 	color: #fff;
 	overflow: auto;
@@ -406,6 +405,9 @@ body {
 	}
 	.burger-second-row {
 		justify-content: center;
+	}
+	.main-header {
+		background: url("../img/icons/white-line.png") 0 100%/100%  no-repeat, url("../img/main-photo-mini.png") center / cover no-repeat fixed;
 	}
 }
 
